@@ -8,6 +8,7 @@ theme = "compose"
 [params]
   author = "Beatso"
   searchPlaceholder = "Search..."
+  enableCopyright = false
   repo = "https://github.com/Beatso/ResourcePackInfo"
 
   time_format_blog = "Monday, January 02, 2006"
