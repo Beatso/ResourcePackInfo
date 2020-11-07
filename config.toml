@@ -14,8 +14,8 @@ theme = "compose"
   time_format_default = "January 2, 2006"
   enableDarkMode = true # set to false to disable darkmode by default. user will still have the option to use dark mode
   [params.logo]
-    lightMode = "rpinfo.png"
-    darkMode = "rpinfo4.png"
+    lightMode = "logo/text_short_upscaled_dark.png"
+    darkMode = "logo/text_short_upscaled_light.png"
 
   [params.source]
     name = "GitHub"
