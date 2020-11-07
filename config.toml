@@ -6,8 +6,8 @@ theme = "compose"
 
 
 [params]
-  author = "Weru"
-  searchPlaceholder = "Search the docs ..."
+  author = "Beatso"
+  searchPlaceholder = "Search..."
   repo = "https://github.com/Beatso/ResourcePackInfo"
 
   time_format_blog = "Monday, January 02, 2006"
