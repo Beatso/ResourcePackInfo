@@ -2,7 +2,7 @@ baseURL = ""
 languageCode = "en-gb"
 title = "Resource Pack Info"
 enableRobotsTXT = true
-theme = "compose"
+theme = "theme"
 
 
 [params]
