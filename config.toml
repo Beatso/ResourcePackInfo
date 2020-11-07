@@ -29,6 +29,11 @@ theme = "compose"
     weight = 2
     url = "docs/"
 
+[[menu.main]]
+    name = "Discord"
+    weight = 3
+    url = "https://discord.gg/bNcZjFe"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
