@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "/"
 languageCode = "en-gb"
 title = "Resource Pack Info"
 enableRobotsTXT = true
