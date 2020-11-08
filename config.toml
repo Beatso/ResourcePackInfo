@@ -15,12 +15,12 @@ theme = "theme"
   time_format_default = "January 2, 2006"
   enableDarkMode = true # set to false to disable darkmode by default. user will still have the option to use dark mode
   [params.logo]
-    lightMode = "logo/text_short_upscaled_dark.png"
-    darkMode = "logo/text_short_upscaled_light.png"
+    lightMode = "/logo/text_short_upscaled_dark.png"
+    darkMode = "/logo/text_short_upscaled_light.png"
 
   [params.source]
     name = "GitHub"
-    icon = "github.svg"
+    icon = "/github.svg"
     url = "https://github.com/Beatso/ResourcePackInfo/"
 
 
