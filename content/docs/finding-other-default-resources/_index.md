@@ -32,6 +32,8 @@ In that folder, there should be a file with the exact name of the hash you found
 
 This is the file you were looking for.
 
+![Find the object file with a name corresponding to the hash](locating-object.png)  
+
 
 ## Saving the file
 
