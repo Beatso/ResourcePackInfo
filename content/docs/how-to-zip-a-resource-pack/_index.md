@@ -10,11 +10,11 @@ It is quite common to see resource packs that are not zipped correctly. This pag
 ## What not to do
 Do not zip the folder of the resource pack, as shown in the image.  
 When resource packs are zipped like this, it does not show in the resource pack selection screen. This confuses most users, and the only solution is to unzip the pack, and then use a child folder.  
-![Windows: send the parent folder to a Compressed (zipped) folder](/pages/how-to-zip-a-resource-pack/what_not_to_do_win.png)  
-![Mac: compress the parent folder](/pages/how-to-zip-a-resource-pack/what_not_to_do_mac.png)
+![Windows: send the parent folder to a Compressed (zipped) folder](what-not-to-do-win.png)  
+![Mac: compress the parent folder](what-not-to-do-mac.png)
 
 ## What to do
 Zip all the files and folders inside the pack, including assets, pack.mcmeta and pack.png.  
 When users download this zip, it will appear directly in their resourcepacks folder.  
-![Windows: send the files inside the resource pack to a Compressed (zipped) folder](/pages/how-to-zip-a-resource-pack/what_to_do_win.png)  
-![Mac: compress the files inside the resource pack](/pages/how-to-zip-a-resource-pack/what_to_do_mac.png)
+![Windows: send the files inside the resource pack to a Compressed (zipped) folder](what-to-do-win.png)  
+![Mac: compress the files inside the resource pack](what-to-do-mac.png)
