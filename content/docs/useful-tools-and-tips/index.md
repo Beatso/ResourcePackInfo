@@ -25,6 +25,10 @@ Note if you are using software like VS Code, you can have syntax checking direct
 ## Colour codes
 If you want colours in your resource packs description (in pack.mcmeta), you can use [this site](https://minecraft.tools/en/color-code.php).
 
+## Colour Theory
+I often find it hard to get colours that work well together. Having a quick read of these two articles can really help:  
+[How to start making pixel art #6 Basic Color Theory](https://medium.com/pixel-grimoire/how-to-start-making-pixel-art-6-a74f562a4056)  
+[Basic color schemes - Introduction to Color Theory](https://www.tigercolor.com/color-lab/color-theory/color-theory-intro.htm)
 
 ## Palette creator
 If you're editing a vanilla texture, and you quickly need to get all the colours from an image to work with, you can do this is in one of two ways.  
